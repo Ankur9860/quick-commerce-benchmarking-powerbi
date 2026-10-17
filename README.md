@@ -91,4 +91,4 @@ Power BI Desktop (DAX, what-if parameters, forecasting) · Excel (data collectio
 
 ---
 
-**Author:** Sunny · Feedback welcome via LinkedIn or GitHub issues.
+**Author:** Ankur. Feedback welcome via LinkedIn or GitHub issues.
